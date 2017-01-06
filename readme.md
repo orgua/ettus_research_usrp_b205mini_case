@@ -1,6 +1,7 @@
-3D printable Enclosure for the Ettus Research B200mini and B205mini
+3D printable Enclosure for the [Ettus Research B200mini and B205mini](https://www.ettus.com/product/details/USRP-B205mini-i)
 ===================================================================
 
+![URSP B200](https://kb.ettus.com/images/thumb/e/ea/Product_b200_mini.png/250px-Product_b200_mini.png)
 
 ## todo
 - Shapeways
@@ -16,7 +17,7 @@
 
 ![case explosion](./pictures/case_explosion.png)
 
-- pics real
+- pics real (color is clean light grey not like in the pictures)
 
 ![case assembled](./pictures/case_assembled.jpg)
 ![case outside](./pictures/case_outside.jpg)
