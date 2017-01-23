@@ -18,17 +18,24 @@ This case is smaller and cheaper than the original case from Ettus. And you can 
 - Thermal Pads 1mm thick (Double Adhesive Heat Transfer Pads) for FPGA and ADC
 - conductive copper foil tape to shield the cages (optional)
    
-## Pictures (color is clean light grey not like in the pictures)
+## Pictures
 
 ![case explosion](./pictures/case_explosion.png)  
 
-![case assembled](./pictures/case_assembled.jpg)
+![case assembled C](./pictures/DSC06558.jpg)
+
+![case assembled A](./pictures/DSC06550.jpg)
+![case assembled B](./pictures/DSC06551.jpg)
+
+
+![case inside A](./pictures/DSC06542.jpg)
+![case inside B](./pictures/DSC06545.jpg)
+
 ![case outside](./pictures/case_outside.jpg)
-![case inside](./pictures/case_inside.jpg)
+
 
 ## todo
 - update link [thingiverse](http://www.thingiverse.com/thing:1892671)
-- pics from inside (finished assembly)
 - possible changes
    - reset hole could go 0.5mm to usb-port
       
